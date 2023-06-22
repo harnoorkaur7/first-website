@@ -2,8 +2,21 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Harnoor Kaur** and I am an MSc Economics candidate at the London School of Economics and Political Science. My academic interests lie in environmental economics, political economy, applied microeconomics, and econometrics. In my free time, I enjoy hiking and reading.
 
-```{r}
-1 + 1
-```
+## About the Project
+**Title**: *How does Fuel Efficiency relate to Vehicle Weight?*
+
+**Description**: In this project, we will be looking at the association between fuel efficiency of vehicles and their vehicle weight.
+
+### Goals
+- Present a graph
+- Summarize relevant literature on the topic
+  + This may require qualitative and anecdotal evidence
+  
+"This is data science"
+\
+~ Preceptor
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)

@@ -4,6 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Harnoor Kaur and I am an MSc Economics candidate at the London School of Economics and Political Science. My academic interests lie in environmental economics, political economy, applied microeconomics, and econometrics. In my free time, I enjoy hiking and reading."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "My name is Harnoor Kaur and I am an MSc Economics candidate at the London School of Economics and Political Science. My academic interests lie in environmental economics, political economy, applied microeconomics, and econometrics. In my free time, I enjoy hiking and reading."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nTitle: How does Fuel Efficiency relate to Vehicle Weight?\nDescription: In this project, we will be looking at the association between fuel efficiency of vehicles and their vehicle weight.\n\nGoals\n\nPresent a graph\nSummarize relevant literature on the topic\n\nThis may require qualitative and anecdotal evidence\n\n\n“This is data science”\n~ Preceptor\nKane’s Free Data Science Bootcamp"
   }
 ]

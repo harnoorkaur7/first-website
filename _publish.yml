@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 530d9192-b87a-4a8a-9d34-f51da726be08
+      url: 'https://harnoorkaur7.quarto.pub/first-website'
